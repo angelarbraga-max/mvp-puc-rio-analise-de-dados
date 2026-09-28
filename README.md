@@ -37,7 +37,8 @@ Consolidação dos dados para consumo analítico e suporte à tomada de decisão
 
 ## 4. Evidência de Execução e Resultados (Camada Gold)
 
-Abaixo encontra-se a captura de ecrã da consulta à tabela Gold no Databricks após o processamento completo do pipeline: ![Resultado da Camada Gold](gold_turistas_espanha.png')
+Abaixo encontra-se a captura de ecrã da consulta à tabela Gold no Databricks após o processamento completo do pipeline: 
+![Resultado da Camada Gold](gold_turistas_espanha.png)
 
 ## 5. Dicionário de Dados (Tabela Gold)
 
