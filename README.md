@@ -1,7 +1,7 @@
 # MVP - Pipeline de Dados de Turismo Internacional: Mercado Emissor Espanha
 
 > **Projeto Prático - Pós-Graduação PUC-Rio**  
-> Pipeline de dados desenvolvido em Arquitetura Medalhão no Databricks com PySpark, Delta Lake e Unity Catalog
+> Pipeline de dados desenvolvido em Arquitetura Medalhão no Databricks
 
 ## 1. Visão Geral e Objetivo do Negócio
 
@@ -37,7 +37,7 @@ Consolidação dos dados para consumo analítico e suporte à tomada de decisão
 
 ## 4. Evidência de Execução e Resultados (Camada Gold)
 
-Abaixo encontra-se a captura de ecrã da consulta à tabela Gold no Databricks após o processamento completo do pipeline:
+Abaixo encontra-se a captura de ecrã da consulta à tabela Gold no Databricks após o processamento completo do pipeline: (gold_turistas_espanha.png)
 
 ## 5. Dicionário de Dados (Tabela Gold)
 
