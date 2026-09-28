@@ -55,6 +55,5 @@ Abaixo encontra-se a captura de ecrã da consulta à tabela Gold no Databricks a
 * **Apache Spark / PySpark & Spark SQL**
 * **Delta Lake & Unity Catalog**
 * **Git / GitHub**
-`. **Bloco Destaque Inicial (`>`):** O subtítulo inicial fica dentro de uma caixa cinzenta de destaque no GitHub.
 
 ```
